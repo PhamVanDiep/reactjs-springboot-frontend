@@ -27,7 +27,6 @@
       "react-app/jest"
     ]
   },
-  "proxy":"https://reactjs-springboot-backend.herokuapp.com",
   "browserslist": {
     "production": [
       ">0.2%",
