@@ -1,0 +1,12 @@
+nav + .container, nav + .container-fluid {
+  margin-top: 20px;
+} 
+
+.radio-published {
+  margin-right: 5px;
+}
+
+textarea {
+  width: 100%;
+  height: 200px;
+}
